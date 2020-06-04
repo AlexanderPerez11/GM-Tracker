@@ -1,0 +1,6 @@
+Bamorn Primphec,-3
+Rogar,4
+Taiyo,1
+Theoden Hywinn,-1
+Ulgrim,0
+# Name,DEXmod

@@ -1,0 +1,4 @@
+Bandit_a,1
+Bandit_b,1
+Bandit_c,1
+Archmage_a,2
